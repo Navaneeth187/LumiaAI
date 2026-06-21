@@ -9,7 +9,6 @@
 
 **Lumina** is a structured, AI-powered mental wellness companion and self-reflection companion. Designed with modern aesthetics and interactive features, it helps users track their emotional trends, identify cognitive distortions, manage stress levels, and learn healthier coping behaviors in a secure, local-first environment.
 
-[View Applet on Google AI Studio](https://ai.studio/apps/056d136d-db83-4e7f-846f-07da1bc915ab)
 </div>
 
 ---
