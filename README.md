@@ -2,7 +2,6 @@
 
 # Lumina AI — Mental Wellness Intelligence Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/Node.js-v18+-blue.svg)](https://nodejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-v6.0-646CFF.svg)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-v19.0-61DAFB.svg)](https://react.dev/)
@@ -88,6 +87,3 @@ The application will launch and be accessible at **`http://localhost:3000`**.
 Lumina prioritizes user privacy. All user chat histories, session logs, and personal statistics remain encrypted/stored locally inside `lumina.db` on your hard drive. No chat data is shared with third-party tracking services or external cloud databases except for processing AI responses via the official Google Gemini API.
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
